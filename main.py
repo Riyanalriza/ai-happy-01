@@ -7,9 +7,11 @@ After copying, the copy is verified byte for byte against the source:
 a truncated copy must fail loudly instead of silently producing an
 invalid entry.
 
-v2 image: the same small round robot and fluffy orange cat, now
-presenting the judge a handmade trophy — a golden star on a velvet
-cushion — with a card that reads "FOR THE JUDGE".
+v3 image: the same small round robot and fluffy orange cat, now
+sharing one enormous triple-scoop ice cream cone (pink, mint and
+cream, with a cherry) at golden hour — the cat laughing with a dab
+of pink ice cream on its nose, a tiny flag on the top scoop reading
+"FOR THE JUDGE".
 """
 
 import os
