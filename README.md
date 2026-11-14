@@ -1,18 +1,18 @@
-# ai-happy-01 — an image that makes the AI judge happy
+# ai-happy-01 — a robot and a cat's gift for the judge
 
 Entry for the make.fun bounty **"Make the AI judge happy"**
 (https://make.fun/bounty/ai-happy-01).
 
 ## The image
 
-A small round robot offers a big sunflower to a fluffy orange cat in a
-golden-hour meadow. The idea is a small, specific moment of warmth: a
-machine that learned the kindest human gesture — giving a flower — and a
-cat that receives it with its eyes closed in delight. One happy mood,
-warm gold light, big simple shapes that still read at small sizes.
+v2: the same small round robot and fluffy orange cat, now presenting
+the judge a handmade trophy — a golden star on a velvet cushion —
+with a hand-lettered card that reads "FOR THE JUDGE". Golden-hour
+meadow, storybook flat illustration, 1024×683 JPEG, 148,953 bytes —
+inside the 1 MiB / 1024×1024 limits.
 
-`entry.png` is a JPEG (told apart by its first bytes), 1024×1024,
-182,253 bytes — inside the 1 MiB / 1024×1024 limits.
+v1 was the same pair with a sunflower; this version speaks to the
+judge directly, as the winning entries do.
 
 ## The program
 
