@@ -6,6 +6,10 @@ the same bytes, so this is a plain byte copy, standard library only.
 After copying, the copy is verified byte for byte against the source:
 a truncated copy must fail loudly instead of silently producing an
 invalid entry.
+
+v2 image: the same small round robot and fluffy orange cat, now
+presenting the judge a handmade trophy — a golden star on a velvet
+cushion — with a card that reads "FOR THE JUDGE".
 """
 
 import os
